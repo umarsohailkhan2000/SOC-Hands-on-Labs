@@ -1,5 +1,6 @@
 
-Windows Security Log Analysis (Hydra RDP Brute-Force Lab)
+#Windows Security Log Analysis (Hydra RDP Brute-Force Lab)
+
 Objective
 
 In this lab, I analyzed Windows Security Logs by generating real authentication events using a controlled brute-force attempt. I used Hydra from Kali Linux to simulate RDP brute-force attacks on a Windows Server VM. This helped me understand how Windows logs failed and successful login attempts, which is crucial for SOC detection and investigation.
